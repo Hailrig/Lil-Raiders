@@ -15,5 +15,5 @@ this = instance_create_depth(x, y-32, 0, obj_bullet);
 this.dir = "north";
 this.image_index = 2;
 audio_play_sound(snd_explosion, 1, 0);
-image_index = 1;
+sprite_index = spr_explosion;
 alarm_set(1, 15);

@@ -6,6 +6,7 @@
     {"id":{"name":"snd_alien_death","path":"sounds/snd_alien_death/snd_alien_death.yy",},"order":8,},
     {"id":{"name":"obj_boom","path":"objects/obj_boom/obj_boom.yy",},"order":5,},
     {"id":{"name":"snd_closer","path":"sounds/snd_closer/snd_closer.yy",},"order":6,},
+    {"id":{"name":"spr_explosion","path":"sprites/spr_explosion/spr_explosion.yy",},"order":10,},
     {"id":{"name":"snd_music","path":"sounds/snd_music/snd_music.yy",},"order":0,},
     {"id":{"name":"obj_redirect","path":"objects/obj_redirect/obj_redirect.yy",},"order":8,},
     {"id":{"name":"spr_player_four","path":"sprites/spr_player_four/spr_player_four.yy",},"order":7,},
