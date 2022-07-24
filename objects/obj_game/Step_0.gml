@@ -5,9 +5,9 @@ if keyboard_check_pressed(vk_escape){
 	game_end();
 }
 restart1 = gamepad_button_check_pressed(0, gp_select);
-restart2 = gamepad_button_check_pressed(0, gp_select);
-restart3 = gamepad_button_check_pressed(0, gp_select);
-restart4 = gamepad_button_check_pressed(0, gp_select);
+restart2 = gamepad_button_check_pressed(1, gp_select);
+restart3 = gamepad_button_check_pressed(2, gp_select);
+restart4 = gamepad_button_check_pressed(3, gp_select);
 
 if global.players < 2 and alarm_get(0) = -1{
 	global.gameover = true
