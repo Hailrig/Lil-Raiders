@@ -1,2 +1,2 @@
 # Lil Raiders
- A game jam game
+ Entry for the 6th WestJam Competition.
